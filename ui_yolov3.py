@@ -621,7 +621,7 @@ class picture(QWidget):
 
 
         btn3 = QPushButton(self)
-        btn3.setText("")
+        btn3.setText("摄像头和视频检测")
         btn3.setStyleSheet(''' 
                                                      QPushButton
                                                      {text-align : center;
