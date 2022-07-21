@@ -1,6 +1,7 @@
 ## 重要
 
-下载权重，权重文件请放在  weights/yolov3.pt 
+下载权重，权重文件请放在  weights/yolov3.pt  下载链接 链接：[https://pan.baidu.com/s/1Da0CuJqx2Zv5bJdss-wv-Q?pwd=chen](https://pan.baidu.com/s/1Da0CuJqx2Zv5bJdss-wv-Q?pwd=chen) 
+提取码：chen
 
 打开`ui_yolov3.py`文件，运行即可。环境配置参考yolov3官方配置（https://github.com/ultralytics/yolov3）
 
